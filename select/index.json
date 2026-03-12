@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "Hey you",
+  "base_artist": "MIO",
+  "createdAt": "2026-03-12T01:25:10.614723Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey You",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/01_Hey_You_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(Hey You) What'S That Sound?",
+      "artist": "Les Rythmes Digitales",
+      "has_synced": true,
+      "path": "select/02_(Hey_You)_What'S_That_Sound_Les_Rythmes_Digitales.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Hey You) What's That Sound? (remix)",
+      "artist": "Les Rythmes Digitales",
+      "has_synced": false,
+      "path": "select/03_(Hey_You)_What's_That_Sound__(remix)_Les_Rythmes_Digitales.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey You",
+      "artist": "Malcolm Middleton",
+      "has_synced": false,
+      "path": "select/04_Hey_You_Malcolm_Middleton.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey You",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/05_Hey_You_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey! You!",
+      "artist": "Kim Wilde",
+      "has_synced": false,
+      "path": "select/06_Hey!_You!_Kim_Wilde.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey You",
+      "artist": "The Pointer Sisters",
+      "has_synced": false,
+      "path": "select/07_Hey_You_The_Pointer_Sisters.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey You!",
+      "artist": "Bomb the Bass",
+      "has_synced": false,
+      "path": "select/08_Hey_You!_Bomb_the_Bass.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "hey you got drugs?",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/09_hey_you_got_drugs_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hey, You Got Drugs",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/10_Hey,_You_Got_Drugs_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hey You Guys",
+      "artist": "Circlesquare",
+      "has_synced": true,
+      "path": "select/11_Hey_You_Guys_Circlesquare.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hey You ! (feat. Ryan Tedder)",
+      "artist": "Cassius feat. Ryan Tedder",
+      "has_synced": false,
+      "path": "select/12_Hey_You_!_(feat._Ryan_Tedder)_Cassius_feat._Ryan_Tedder.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey You! (feat. Ryan Tedder)",
+      "artist": "Cassius",
+      "has_synced": false,
+      "path": "select/13_Hey_You!_(feat._Ryan_Tedder)_Cassius.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hey You",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/14_Hey_You_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hey You",
+      "artist": "Fallulah",
+      "has_synced": false,
+      "path": "select/15_Hey_You_Fallulah.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hey! You! Outside Now!",
+      "artist": "Chumbawamba",
+      "has_synced": false,
+      "path": "select/16_Hey!_You!_Outside_Now!_Chumbawamba.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hey You",
+      "artist": "Heart",
+      "has_synced": true,
+      "path": "select/17_Hey_You_Heart.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hey You",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/18_Hey_You_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hey There",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/19_Hey_There_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Hey There",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/20_Hey_There_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "(Hey Won't You Play) Another Somebody Done Somebody Wrong Song",
+      "artist": "B.J. Thomas",
+      "has_synced": false,
+      "path": "select/21_(Hey_Won't_You_Play)_Another_Somebody_Done_Somebody_Wrong_Song_B.J._Thomas.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Hey Bartender",
+      "artist": "Johnny Lee",
+      "has_synced": true,
+      "path": "select/22_Hey_Bartender_Johnny_Lee.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Hey Bobby",
+      "artist": "K.T. Oslin",
+      "has_synced": true,
+      "path": "select/23_Hey_Bobby_K.T._Oslin.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Hey Cinderella",
+      "artist": "Suzy Bogguss",
+      "has_synced": true,
+      "path": "select/24_Hey_Cinderella_Suzy_Bogguss.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Hey Driver",
+      "artist": "Dale Watson",
+      "has_synced": false,
+      "path": "select/25_Hey_Driver_Dale_Watson.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Hey Girl",
+      "artist": "Billy Currington",
+      "has_synced": true,
+      "path": "select/26_Hey_Girl_Billy_Currington.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Hey Girl (Album Version)",
+      "artist": "Billy Currington",
+      "has_synced": true,
+      "path": "select/27_Hey_Girl_(Album_Version)_Billy_Currington.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Hey Girl (Radio Version)",
+      "artist": "Anne Wilson",
+      "has_synced": true,
+      "path": "select/28_Hey_Girl_(Radio_Version)_Anne_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Hey Joe",
+      "artist": "Carl Smith",
+      "has_synced": false,
+      "path": "select/29_Hey_Joe_Carl_Smith.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Hey Joe, Hey Moe",
+      "artist": "Moe Bandy",
+      "has_synced": false,
+      "path": "select/30_Hey_Joe,_Hey_Moe_Moe_Bandy.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Hey Loretta - Single Version",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/31_Hey_Loretta_-_Single_Version_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Hey Loretta (Single Version)",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/32_Hey_Loretta_(Single_Version)_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Hey Merle",
+      "artist": "Easton Corbin",
+      "has_synced": true,
+      "path": "select/33_Hey_Merle_Easton_Corbin.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Hey Porter",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/34_Hey_Porter_Johnny_Cash.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HEY YOU",
+      "artist": "MIO",
+      "has_synced": false,
+      "path": "select/pl_01_HEY_YOU_MIO.txt"
+    }
+  ]
+}
